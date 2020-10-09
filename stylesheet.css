@@ -21,8 +21,6 @@ li {
 .header-list li {
   float: left;
   padding: 33px 20px;
-  background-color: #dee7ec;
-  height: 90px;
   
 }
 
@@ -32,7 +30,6 @@ li {
 
 .copy-container h1 {
   font-size: 140px;
-  padding-top:20px;
 }
 
 .copy-container h2 {
