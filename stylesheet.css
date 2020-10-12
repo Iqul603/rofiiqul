@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #778899;
+  background-color: #6495ED;
   color: #fff;
   height: 90px;
 }
@@ -20,7 +20,7 @@ li {
 
 .header-list li {
   float: right;
-  padding: 33px 35px;
+  padding: 33px 40px;
   background-color: #2f5167;
   height: 23px;
 }
