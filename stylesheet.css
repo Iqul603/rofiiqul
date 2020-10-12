@@ -42,9 +42,6 @@ input {
   color: #696969;
 }
 
-.copy-container h2 {
-  font-size: 60px;
-}
 
 .copy-container span {
   color: #696969;
@@ -56,7 +53,7 @@ input {
 }
 
 .section-title {
-  border-bottom: 2px solid #dee7ec;
+  border-bottom: 2px solid #2f5167;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
