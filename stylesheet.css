@@ -65,6 +65,8 @@ input {
 
 .contents-item {
   float: left;
+  width:250px;
+  height:300px;
   margin-right: 40px;
 }
 
