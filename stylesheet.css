@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #696969;
+  background-color: #639c9c;
   color: #fff;
   height: 90px;
 }
@@ -21,19 +21,21 @@ li {
 .header-list li {
   float: right;
   padding: 33px 35px;
-  background-color: #2f5167;
   height: 23px;
 }
 input {
   width: 200px;
   padding: 33px 20px;
   font-size: 12px;
+  background-color: #e0ebeb;
+  background-image: url('searchicon.png');
+  background-position: 100px 40px;
   border:1px solid #778899;
 }
 
 .main {
   padding: 100px 80px;
-  background-color: #B0C4DE;
+  background-color: #b1cdcd;
   color: #fff;
 }
 
@@ -91,7 +93,7 @@ input, textarea{
 }
 
 .footer {
-  background-color: #2f5167;
+  background-color: #507c7c;
   color: #fff;
   height: 120px;
   padding: 40px;
