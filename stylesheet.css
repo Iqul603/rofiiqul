@@ -28,7 +28,7 @@ input {
   width: 200px;
   padding: 33px 20px;
   font-size: 12px;
-  border:1px solid #dee7ec;
+  border:10px solid #778899;
 }
 
 .main {
@@ -39,7 +39,7 @@ input {
 
 .copy-container h1 {
   font-size: 140px;
-  color: #778899;
+  color: #696969;
   padding-top: 20px;
 }
 
@@ -48,7 +48,7 @@ input {
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #696969;
 }
 
 .contents {
