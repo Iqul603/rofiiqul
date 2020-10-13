@@ -22,7 +22,7 @@ li {
 
 .header-list li {
   float: right;
-  padding: 33px 35px;
+  padding: 33px 30px;
   height: 23px;
 }
 input {
@@ -40,7 +40,7 @@ input {
 
 }
 .main {
-  padding: 50px 80px 80px 100px;
+  padding: 80px 50px;
   background-color: #b1cdcd;
   color: #fff;
 }
