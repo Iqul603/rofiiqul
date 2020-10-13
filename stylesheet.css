@@ -1,7 +1,7 @@
 body {
   font-family: "Avenir Next";
-    Padding-right: 20px;
-    Padding-left: 20px;
+  Padding-right: 20px;
+  Padding-left: 20px;
 }
 
 li {
@@ -40,7 +40,7 @@ input {
 
 }
 .main {
-  padding: 100px 80px;
+  padding: 50px 80px 80px 100px;
   background-color: #b1cdcd;
   color: #fff;
 }
