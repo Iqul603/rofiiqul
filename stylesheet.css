@@ -33,6 +33,10 @@ input {
   border:1px solid #778899;
 }
 
+.nav {
+  height: 30px;
+
+}
 .main {
   padding: 100px 80px;
   background-color: #b1cdcd;
@@ -44,10 +48,6 @@ input {
   color: #696969;
 }
 
-
-.copy-container span {
-  color: #696969;
-}
 
 .contents {
   height: 500px;
