@@ -103,6 +103,9 @@ input, textarea{
   float: left;
   font-size: 32px;
 }
+.footer-item {
+  padding:50% 50px;
+}
 
 .footer-list {
   float: right;
