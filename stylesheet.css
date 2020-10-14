@@ -78,7 +78,6 @@ input {
   padding-top: 100px;
 }
 
-/* Add CSS for <input> and <textarea> tags */
 input, textarea{
   width: 400px;
   margin-top: 10px;
@@ -88,7 +87,6 @@ input, textarea{
   border:1px solid #dee7ec;
 }
 
-/* Add CSS for contact-submit */
 .contact-submit{
   background-color:#dee7ec;
   color:#889eab;
